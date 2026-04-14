@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://locahost:5000/api",
+  baseURL: "https://seat-booking-system-22no.onrender.com/api",
 });
 
 // Automatically attach the user-id to headers for Role-Based Access
