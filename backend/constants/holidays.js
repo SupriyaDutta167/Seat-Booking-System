@@ -1,0 +1,7 @@
+const holidays = [
+  "2026-01-26",
+  "2026-08-15",
+  "2026-10-02"
+];
+
+module.exports = holidays;

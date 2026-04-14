@@ -1,0 +1,5 @@
+module.exports = {
+  TOTAL_SEATS: 50,
+  DESIGNATED_SEATS: 40,
+  FLOATING_SEATS: 10,
+};
